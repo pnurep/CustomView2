@@ -1,2 +1,2 @@
-# Push Push 게
+# Push Push Game
 Push Push init
